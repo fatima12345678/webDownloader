@@ -22,6 +22,7 @@ public class Main extends Application {
 System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("fatima");
+        System.out.println("fatima1");
         launch(args);
     }
 }
